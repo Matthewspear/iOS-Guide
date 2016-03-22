@@ -91,8 +91,22 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 
 ## Email Newsletters
 
+- **[iOS Dev Weekly](https://iosdevweekly.com/)** - Hand-picked round up of the best iOS development links every week. Curated by Dave Verwer and published every Friday.
+
+- **[This Week In Swift](https://swiftnews.curated.co/)** - Weekly email on Swift language, news and community curated by [@NatashaTheRobot](https://twitter.com/natashatherobot).
+
+- **[iOS Bytes](https://iosbytes.codeschool.com/)** - Weekly podcast (under 5 minutes) and newsletter containing 5 stories of the latest news in the iOS community. Produced by [Code School](https://www.codeschool.com/).
+
+- **[Ray Wenderlich Weekly](https://www.raywenderlich.com/newsletter)** - Weekly email contain the lastest tutorials, articles and news on the [Ray Wenderlich](https://www.raywenderlich.com/) site.
+
+- **[Design + Code](https://designcode.io/learn)** - Weekly email containing the best resources for learning iOS design and Xcode.
+
+
+
 ## Documentation
 
 ## Other
+
+- **[App Review Times](http://appreviewtimes.com/)** - This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
 
 
