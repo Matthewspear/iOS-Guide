@@ -29,7 +29,7 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 	- [Talks](#talks)
-	- [On YouTube](#on-youtube)
+	- [YouTube](#youtube)
 - [Email Newsletters](#email-newsletters)
 - [Documentation](#documentation)
 - [Other](#other)
@@ -95,7 +95,7 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 
 ### Talks
 
-### On YouTube
+### YouTube
 
 - **[Ask A Dev](https://www.youtube.com/user/AskADev)** - Short videos with a different developer answering a question asked by the community.
 
