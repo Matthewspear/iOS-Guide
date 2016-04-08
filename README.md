@@ -103,11 +103,11 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 
 - **[Computerphile](https://www.youtube.com/user/Computerphile)** - Videos created by Brady Haren / Nottingham University about all things computers, computer science, AI etc.
 
-- **[Code With Chris](https://www.youtube.com/user/CodeWithChris)** - Chris guides you through project in series of videos. Some recent series cover creating a Firebase, shopping list app and how to integrate Cocoapods into your project.
+- **[Code With Chris](https://www.youtube.com/user/CodeWithChris)** - A series of videos each guiding you through a different project. Some recent series cover creating a Firebase app, shopping list app and how to integrate Cocoapods into your project.
 
 - **[Route 85](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO)** - Google's show for iOS developers, covering iOS tips and tricks and the latest SDKs from Google.
 
-- **[Vea Software](https://www.youtube.com/user/veasoftware)** - PJ shares what he has learnt about iOS  through these high quality walkthrough videos.
+- **[Vea Software](https://www.youtube.com/user/veasoftware)** - A series of videos where PJ shares what he has learnt about iOS development via tutorials.
 
 
 
