@@ -28,6 +28,8 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 - [Guides](#guides)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+	- [Talks](#talks)
+	- [On YouTube](#on-youtube)
 - [Email Newsletters](#email-newsletters)
 - [Documentation](#documentation)
 - [Other](#other)
@@ -55,6 +57,8 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 - **[Trending CocoaPods](https://trendingcocoapods.github.io/)** - Another ranked list of CocoaPods project. Rank based on number of GitHub Watchers.
 
 - **[iOS Cookies](http://www.ioscookies.com/)** - A hand curated collection of iOS libraries written in Swift. Catagories include: Database, Networking, XML/JSON, Security, Animation, Image, UI/UX, Charts, Autolayout, Permissions, Audio, Math, Logging, Colors, Cache, Open source apps, Testing, Games and Utilities.
+
+
 
 ### APIs / SDKs
 
@@ -88,6 +92,24 @@ I started learning first Objective-C then moving on to Swift back in 2014 and be
 ## Tutorials
 
 ## Videos
+
+### Talks
+
+### On YouTube
+
+- **[Ask A Dev](https://www.youtube.com/user/AskADev)** - Short videos with a different developer answering a question asked by the community.
+
+- **[Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)** - Series of detailed and well explained YouTube tutorials covering topics and features you may want in your next app.
+
+- **[Computerphile](https://www.youtube.com/user/Computerphile)** - Videos created by Brady Haren / Nottingham University about all things computers, computer science, AI etc.
+
+- **[Code With Chris](https://www.youtube.com/user/CodeWithChris)** - Chris guides you through project in series of videos. Some recent series cover creating a Firebase, shopping list app and how to integrate Cocoapods into your project.
+
+- **[Route 85](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO)** - Google's show for iOS developers, covering iOS tips and tricks and the latest SDKs from Google.
+
+- **[Vea Software](https://www.youtube.com/user/veasoftware)** - PJ shares what he has learnt about iOS  through these high quality walkthrough videos.
+
+
 
 ## Email Newsletters
 
